@@ -1,0 +1,37 @@
+No,제목,약어,정의
+1,활주로 미/과착 Undershoot/Overshoot,USOS,"활주로, 착륙대 등의 표면 밖에 착지한 경우"
+2,비정상적 활주로충돌 Abnormal RWY contact,ARC,이착륙 중 활주로 등에 비정상적 접촉이 발생한 경우
+3,활주로이탈 RWY excursion,RE,활주로 측면 또는 끝단을 이탈한 경우
+4,활주로침범 RWY Incursion,RI,"이착륙을 위해 지정된 표면의 보호구역에 항공기, 차량, 사람이 규칙에 어긋나게 진입을 한 경우"
+5,지상충돌 Control Flight Into Terrain,CFIT,비행제어 상실 징후 없이 지형/장애물 등과 충돌한 경우
+6,이착륙 중 장애물충돌 Collision with obstacle during Take-off and Landing,CTOL,이착륙 중 지상의 장애물 등과 충돌이 발생한 경우
+7,조종능력상실(비행중) Loss of control In-flight,LOC-I,비행경로를 이탈하였거나 비행제어 손실이 발생한 경우
+8,화재(직접) fire - non impact,F-NI,항공기에서 화재/연기 발생 (다른 유형의 후속한 화재는 제외)
+9,화재(간접) fire - post impact,F-POST,다른 사고유형의 결과로 화재나 연기가 발생한 경우
+10,고장/결함 System Component Failure(엔진 외 Non-Powerplant),SCF-NP,동력장치 외의 장비 및 부품에 고장/결함이 발생한 경우
+11,고장/결함 System Component Failure(엔진 Powerplant),SCF-PP,동력장치 고장/결함이 발생한 경우
+12,객실안전 Cabin safety events,CABIN,항공기 객실안전 관련 안전사건이 발생한 경우
+13,지상조업 Ground handling,RAMP,지상조업 중 또는 그 결과로 안전사건이 발생한 경우
+14,난기류 Turbulence,TURB,비행 중 난기류 조우가 발생한 경우
+15,윈드쉐어 Wind Shear or Thunderstorm,WSTRW,윈드시어 또는 뇌우에 조우한 경우
+16,항공기결빙 Icing,ICE,"항공기표면에 눈, 얼음, 비의 결빙, 서리 등이 쌓여 항공기 조종성능에 악영향을 미치는 안전사건이 발생한 경우"
+17,공중충돌 Mid-Air Collision,MAC,"비행 중인 항공기 간 공중충돌 또는 니어미스(Near Miss)가 발생한 경우(ACAS 경보, 분리손실 등 포함)"
+18,지상충돌 Ground Collision,GCOL,유도로 또는 사용중인 활주로에서 충돌이 발생한 경우
+19,조종능력상실(지상) Loss of control - ground,LOC-G,지상 운항 중 항공기 제어능력 손실이 발생한 경우
+20,양력상실 Loss of lifting condition en route,LOLI,비행 중 양력상실로 중도착륙을 한 경우
+21,저고도비행 Low altitude operation,LALT,"지표면 가까이에서 비행 중 장애물 등에 충돌하거나 충돌위험 발생한 경우(단, 이착륙 단계는 제외)"
+22,급기동 Abrupt maneuver,AMAN,의도적인 항공기 급기동이 발생한 경우
+23,항행오류 Navigation error,NAV,항공기의 잘못된 항행으로 안전사건이 발생한 경우
+24,조류충돌 Bird strike,BIRD,조류와의 충돌 또는 니어미스가 발생한 경우
+25,야생동물충돌 Wildlife,WILD,공항 이동지역에 나타난 야생동물과 충돌하거나(충돌 위험이 있었던 경우 포함) 충돌 회피조작을 한 경우
+26,기내탈출 Evacuation,EVAC,"비상탈출 중 부상자 발생, 불필요한 비상탈출 실시,  비상탈출 장비가 기능장애 등이 발생한 경우"
+27,급유관련 Fuel related,FUEL,"연료 고갈/부족/관리 실패/오염, 기화기 또는 흡기계통 결빙으로 엔진의 출력이 감소하거나 정지한 경우 등"
+28,환자발생 Medical,MED,"항공기 탑승자의 질병, 부상 관련 사건이 발생한 경우 "
+29,관제서비스 관련 ATM/CNS,ATM,항행서비스 문제로 안전사건이 발생한 사건
+30,공항운영 관련 Aerodrome,ADRM,공항 설계?서비스?기능 문제로 안전사건이 발생한 경우
+31,계획에 없던 계기비행 Unintended flight in IMC,UIMC,의도 또는 계획하지 않은 계기비행을 한 경우
+32,글라이더 토잉 Glider towing related,GTOW,활공기 견인 관련 안전사건이 발생한 경우 (케이블 얽힘 등)
+33,외부장착물 관련 External load related,EXTL,항공기 외부 적재물 등으로 안전사건이 발생한 경우
+34,보안관련 Security,SEC,범죄/보안 관련 사건이 발생한 경우
+35,기타 Other,OTHR,여타 다른 유형에 해당되지 않는 사건이 발생한 경우
+36,원인미상 Unknown,UNK,발생사건 중 정보가 불충분하여 유형을 분류할 수 없는 경우
